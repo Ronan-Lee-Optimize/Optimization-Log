@@ -1,4 +1,4 @@
-# Day 01: variables, print, input
+# day 01: variables, print, input
 # opt-log | consistency over perfection.
 
 name = "Ronan Lee"
@@ -6,10 +6,10 @@ goal = "Transfer to UC - IE"
 daysleft = 229
 
 
-print("Name: ", name)
-print("Goal: ", goal)
-print("Days till CSAT:", daysleft)
+print("name: ", name)
+print("goal: ", goal)
+print("days till CSAT:", daysleft)
 
 
-study =  input("What did u study today?")
-print("Logged:", study)
+study =  input("what did u study today?")
+print("logged:", study)
