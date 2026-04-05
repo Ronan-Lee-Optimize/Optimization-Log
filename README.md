@@ -8,4 +8,5 @@ From Zero to UC: Rebuilding my logic with Python while preparing for the Korean 
 
 
 ## reason why i started to learn python again
-Frustrated by the rigid, rank-oriented curriculum of non-major subjects in Korea, so I decided to take ownership of my education and learing and build my own paths and ways.
+Frustrated by the rigid, rank-oriented curriculum of non-major subjects in Korea, 
+so I decided to take ownership of my education and learing and build my own paths and ways.
