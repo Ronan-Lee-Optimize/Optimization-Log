@@ -11,6 +11,7 @@ From Zero to UC: Rebuilding my logic with Python while preparing for the Korean 
 Frustrated by the rigid, rank-oriented curriculum of non-major subjects in Korea, 
 so I decided to take ownership of my education and learing and build my own paths and ways.
 
+
 ## short term target
 Build a solid python foundation before CSAT(수능)
 
