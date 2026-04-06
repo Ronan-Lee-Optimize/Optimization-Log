@@ -13,3 +13,7 @@ so I decided to take ownership of my education and learing and build my own path
 
 ## short term target
 Build a solid python foundation before CSAT(수능)
+
+
+## what im using right now
+IDLE. I'm only using idle for now. Will switch to better environment as I level up myself
