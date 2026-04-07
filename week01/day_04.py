@@ -8,7 +8,6 @@ while count < 5:
     count = count + 1
 
 
-
 count = 0
 
 while count < 5:
@@ -17,3 +16,4 @@ while count < 5:
 
 
 # IDLE is the only place that i can escape form the 5 choice and feel real freedom
+# hope anybody read my codes😭
