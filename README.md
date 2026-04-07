@@ -17,4 +17,4 @@ Build a solid python foundation before CSAT(수능)
 
 
 ## what im using right now
-IDLE. I'm only using idle for now. Will switch to better environment as I level up myself
+IDLE. i'm only using idle for now. will switch to better environment as i level up myself
