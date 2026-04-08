@@ -21,5 +21,4 @@ IDLE. i'm only using idle for now. will switch to better environment as i level 
 
 
 ## strategy update
-odd weeks = new content
-even weeks = review and application🔥
+odd weeks = new content,  even weeks = review and application🔥
