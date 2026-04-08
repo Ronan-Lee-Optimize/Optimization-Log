@@ -18,3 +18,8 @@ Build a solid python foundation before CSAT(수능)
 
 ## what im using right now
 IDLE. i'm only using idle for now. will switch to better environment as i level up myself
+
+
+## strategy update
+odd weeks = new content
+even weeks = review and application🔥
