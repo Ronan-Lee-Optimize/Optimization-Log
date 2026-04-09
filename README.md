@@ -16,7 +16,7 @@ so I decided to take ownership of my education and learing and build my own path
 Build a solid python foundation before CSAT(수능)
 
 
-## what im using right now
+### what im using right now
 IDLE. i'm only using idle for now. will switch to better environment as i level up myself
 
 
