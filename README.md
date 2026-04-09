@@ -24,4 +24,5 @@ IDLE. i'm only using idle for now. will switch to better environment as i level 
 odd weeks = new content,  even weeks = review and application🔥 / (forgot way much than i thought 💀 i really should locked in 🫡)
 
 
-## studying for CSAT while learning python actually helps a lot
+## studying for CSAT while learning python
+it actually helps me think more systematically - it's not just coding you know, it's traning my brain to organize my thoughts clearly
