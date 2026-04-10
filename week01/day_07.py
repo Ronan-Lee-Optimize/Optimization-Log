@@ -1,5 +1,5 @@
-# Day 07 - dictionaries: accessing keys, updating values, and looping
-# opt-log | Consistency over perfection.
+# day 07 - dictionaries: accessing keys, updating values, and looping
+# opt-log | consistency over perfection.
 
 student = {"name": "ronan", "goal": "uc transfer", "days studied": 7}
 
