@@ -30,4 +30,5 @@ odd weeks = new content,  even weeks = review and application🔥 / (forgot way 
 it actually helps me think more systematically - it's not just coding you know, it's traning my brain to organize my thoughts clearly
 
 
-## i ruined my pre-csat but wtv im keep going and never give up
+## i ruined my pre-csat but wtv im keep going and never giving up
+난 잘하고 있고 아무도 날 막을수 없다 ㅋㅋㅋ
