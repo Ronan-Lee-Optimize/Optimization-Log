@@ -28,3 +28,6 @@ odd weeks = new content,  even weeks = review and application🔥 / (forgot way 
 
 ## studying for CSAT while learning python
 it actually helps me think more systematically - it's not just coding you know, it's traning my brain to organize my thoughts clearly
+
+
+## i ruined my pre-csat but wtv im keep going and never give up
