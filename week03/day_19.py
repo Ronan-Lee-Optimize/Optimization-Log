@@ -18,3 +18,4 @@ print(students["lexus"]["days_studied"]) # access nested value
 for name, info in students.items():
     print(name, "-", info["goal"])      # loop through nested dict
 
+# i am so cooked aaaaaa
