@@ -10,3 +10,4 @@
 
 #github isn't reflecting all of my commits what the hell? i pushed two commits a few days ago, so why is only one showing up? and why is it so damn slow?
 # i wanna go homeee 😭
+#umm actually i gotta problem w my gf 😬 what should i do
