@@ -32,3 +32,4 @@ it actually helps me think more systematically - it's not just coding you know, 
 
 ## i ruined my pre-csat but wtv im keep going and never giving up
 난 잘하고 있고 아무도 날 막을수 없다 ㅋㅋㅋ
+## even if i ruined my pre csat, even if i got refused by her, i would keep going.
