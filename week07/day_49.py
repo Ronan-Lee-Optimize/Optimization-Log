@@ -1,4 +1,4 @@
-# day 49 - aaa
+# day 49 - full summary
 # opt-log | consistency over perfection.
 
 
