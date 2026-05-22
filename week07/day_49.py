@@ -1,3 +1,8 @@
+# day 49 - aaa
+# opt-log | consistency over perfection.
+
+
+
 name = input("enter ur name: ")
 days = int(input("enter days u studied: "))
 
@@ -17,3 +22,4 @@ ronan = stu(name, days)
 print(ronan.name, "has studied")
 print(ronan.days, "days")
 
+# week 7 is over
