@@ -35,3 +35,5 @@ it actually helps me think more systematically - it's not just coding you know, 
 ## even if i ruined my pre csat, even if i got refused by her, i would keep going.
 
 # never experienced a rejection that hurts more than a college rejection before
+
+# i hate my brain 🫩 dat PEA shi made me fall in love with a girl and dat made me wasting my time a lot. (based on gemini)
