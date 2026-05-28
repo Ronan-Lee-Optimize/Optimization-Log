@@ -14,3 +14,5 @@
 #i feel ive lost my edge, its time to go back to the basics n approach things w my original mindset.
 # WE ARE THE WORLD, WE ARE THE CHILDREN
 # gotta sleep 
+
+# aaaaaaaaaaaaaaaaaaaa
