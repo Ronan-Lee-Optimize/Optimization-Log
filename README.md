@@ -39,3 +39,5 @@ it actually helps me think more systematically - it's not just coding you know, 
 # i hate my brain 🫩 dat PEA shi made me fall in love with a girl and dat made me wasting my time a lot. (based on gemini)
 
 # pre csat is over, and i need some rest
+
+# i wanna end this thing already
