@@ -22,3 +22,15 @@
 # SIXSEVENNNNNNNNN
 
 # first time I'm trying out the VS code and it seems not that bad
+
+## i ruined my pre-csat but wtv im keep going and never giving up
+난 잘하고 있고 아무도 날 막을수 없다 ㅋㅋㅋ
+## even if i ruined my pre csat, even if i got refused by her, i would keep going.
+
+# never experienced a rejection that hurts more than a college rejection before
+
+# i hate my brain 🫩 dat PEA shi made me fall in love with a girl and dat made me wasting my time a lot. (based on gemini)
+
+# pre csat is over, and i need some rest
+
+# i wanna end this thing already
