@@ -29,15 +29,5 @@ odd weeks = new content,  even weeks = review and application🔥 / (forgot way 
 ## studying for CSAT while learning python
 it actually helps me think more systematically - it's not just coding you know, it's traning my brain to organize my thoughts clearly
 
-
-## i ruined my pre-csat but wtv im keep going and never giving up
-난 잘하고 있고 아무도 날 막을수 없다 ㅋㅋㅋ
-## even if i ruined my pre csat, even if i got refused by her, i would keep going.
-
-# never experienced a rejection that hurts more than a college rejection before
-
-# i hate my brain 🫩 dat PEA shi made me fall in love with a girl and dat made me wasting my time a lot. (based on gemini)
-
-# pre csat is over, and i need some rest
-
-# i wanna end this thing already
+## switching to visual studio code
+time to become a real coder
