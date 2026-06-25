@@ -7,7 +7,7 @@
 
 ## About Me
 - Student from South Korea | Gap year (재수생)
-- Goal: Master Python
+- Goal: Master Python, transfer to a U.S. state university (open to all states)
 - Started: April 3, 2026
 
 ## Why I Started
