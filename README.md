@@ -1,33 +1,38 @@
 # Optimization-Log
-From Zero to UC: Rebuilding my logic with Python while preparing for the Korean CSAT(수능). Consistency over perfection.
 
-## about me
-- student from south korea | gap year
-- goal: transfer to UC (IE)
-- started: April 3, 2026
+> From Zero to Master Python: Rebuilding my logic with Python while preparing for the Korean CSAT (수능).
+> Consistency over perfection.
 
+---
 
-## reason why i started to learn python again
+## About Me
+- Student from South Korea | Gap year (재수생)
+- Goal: Master Python
+- Started: April 3, 2026
+
+## Why I Started
 Frustrated by the rigid, rank-oriented curriculum of non-major subjects in Korea, 
-so I decided to take ownership of my education and learing and build my own paths and ways.
+I decided to take ownership of my own education — building my own path and learning 
+on my own terms.
 
-## learning method
-due to limited access to formal education, this coding journey is self-taught with the help of claude as a learning reference.
+## Learning Method
+Due to limited access to formal CS education, this is a self-taught journey, 
+using Claude (Anthropic) as a learning reference and guide.
 
-## short term target
-Build a solid python foundation before CSAT(수능)
+## Strategy
+- **Odd weeks** → new content
+- **Even weeks** → review and application
 
+> Note: turns out I forgot more than I thought I would. Lesson learned — lock in. 🫡
 
-### what im using right now
-IDLE. i'm only using idle for now. will switch to better environment as i level up myself
+## Short-Term Target
+Build a solid Python foundation before the CSAT.
 
+## Tools
+- Started with IDLE
+- Switched to VS Code (Week 11) as the projects grew more complex
 
-## strategy update
-odd weeks = new content,  even weeks = review and application🔥 / (forgot way much than i thought 💀 i really should locked in 🫡)
-
-
-## studying for CSAT while learning python
-it actually helps me think more systematically - it's not just coding you know, it's traning my brain to organize my thoughts clearly
-
-## switching to visual studio code
-time to become a real coder
+## A Side Note
+Studying CSAT subjects alongside Python has been surprisingly complementary — 
+it's not just about coding. It's training my brain to think and organize ideas 
+more systematically.
