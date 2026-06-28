@@ -39,3 +39,8 @@ more systematically.
 
 ## New Tool: matplotlib
 Started using matplotlib (Week 13) to visualize study data: turning raw numbers into bar charts and line graphs.
+
+## A Rough Day (Day 86)
+Fell asleep mid grind after pulling consecutive late nights. 
+Missed Day 86's window, picked it back up the next day.
+A gap happened — but the log continues.
