@@ -37,6 +37,10 @@ Studying CSAT subjects alongside Python has been surprisingly complementary —
 it's not just about coding. It's training my brain to think and organize ideas 
 more systematically.
 
+## New Tool: pandas
+Started using pandas (Week 11) to organize and analyze study data — 
+filtering, sorting, and grouping with DataFrames.
+
 ## New Tool: matplotlib
 Started using matplotlib (Week 13) to visualize study data: turning raw numbers into bar charts and line graphs.
 
