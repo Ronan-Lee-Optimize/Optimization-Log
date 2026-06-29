@@ -21,3 +21,5 @@ plt.title("study hours comparison")
 plt.legend()    # show labels
 
 plt.show()
+
+#v1
