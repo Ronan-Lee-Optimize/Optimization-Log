@@ -29,7 +29,7 @@ plt.xlabel("subject")
 plt.ylabel("hours")
 
 
+print()
 print(f"total hours: {sum(hours_list)}")
 
-print()
 plt.show()
