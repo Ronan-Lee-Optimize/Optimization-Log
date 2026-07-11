@@ -2,11 +2,14 @@
 # opt-log | consistency over perfection.
 import numpy as np
 
+# make a numpy array (like a list, but faster for math operations)
 hrs = np.array([3, 4, 2, 5, 3])
 
 print(hrs)
-print(f"total: {hrs.sum()}")
-print(f"average: {hrs.mean():.1f}")
-print(f"max: {hrs.max()}")
 
-print("numpy array feels like a supercharged list ")
+# numpy gives built-in math functions - no loop needed!
+print(f"total: {hrs.sum()}")      # add up all values
+print(f"average: {hrs.mean():.1f}")  # mean = average
+print(f"max: {hrs.max()}")        # largest value
+
+print("numpy array feels like a supercharged list")
