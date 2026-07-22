@@ -44,7 +44,18 @@ filtering, sorting, and grouping with DataFrames.
 ## New Tool: matplotlib
 Started using matplotlib (Week 13) to visualize study data: turning raw numbers into bar charts and line graphs.
 
+## New Tool: numpy
+Started using numpy (Week 15) to work with arrays directly — 
+fast math operations, indexing/slicing, boolean filtering, and reshaping data, 
+all without writing loops.
+
 ## A Rough Day (Day 86)
 Fell asleep mid grind after pulling consecutive late nights. 
 Missed Day 86's window, picked it back up the next day.
 A gap happened — but the log continues.
+
+## 100 Days Milestone (Day 100)
+Hit 100 consecutive days of logging. Looking back, the early weeks 
+(variables, loops) feel like a completely different skill level compared 
+to where I'm at now with pandas/matplotlib/numpy. 
+Still going — Week 16 in progress.
