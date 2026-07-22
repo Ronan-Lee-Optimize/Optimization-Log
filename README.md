@@ -49,6 +49,8 @@ Started using numpy (Week 15) to work with arrays directly —
 fast math operations, indexing/slicing, boolean filtering, and reshaping data, 
 all without writing loops.
 
+---
+
 ## A Rough Day (Day 86)
 Fell asleep mid grind after pulling consecutive late nights. 
 Missed Day 86's window, picked it back up the next day.
