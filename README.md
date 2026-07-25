@@ -61,3 +61,10 @@ Hit 100 consecutive days of logging. Looking back, the early weeks
 (variables, loops) feel like a completely different skill level compared 
 to where I'm at now with pandas/matplotlib/numpy. 
 Still going — Week 16 in progress.
+
+---
+
+## Pandas File I/O (Week 17)
+Started saving and loading study data as actual CSV files with pandas 
+(`to_csv`, `read_csv`) instead of just building DataFrames in-memory — 
+data now survives after the program ends.
