@@ -1,0 +1,6 @@
+# when it's first time to launch
+cd /Users/jungminlee/Documents/Opt_Log
+python3 (file name).py
+
+# when the tap is opened
+python3 (file name).py
