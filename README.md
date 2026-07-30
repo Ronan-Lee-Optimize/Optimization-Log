@@ -68,3 +68,19 @@ Still going — Week 16 in progress.
 Started saving and loading study data as actual CSV files with pandas 
 (`to_csv`, `read_csv`) instead of just building DataFrames in-memory — 
 data now survives after the program ends.
+
+# Notes & Lessons Learned
+
+## Working Directory & Relative Paths (Day 113, Day 118)
+`pd.read_csv("study_log.csv")` and `df.to_csv("study_log.csv")` use a 
+relative path — Python looks for the file in the current working 
+directory (wherever the terminal is "standing" when you run the script), 
+not wherever the .py file itself is located.
+
+This caused a "Read-only file system" error on Day 113 when the terminal 
+was sitting at the root directory (`/`). Fixed by `cd`-ing into the 
+project folder before running the script.
+
+Also learned: VS Code's green ▶ Run button opens a fresh terminal each 
+time (always resets to root), while typing directly into an existing 
+terminal panel keeps whatever directory you `cd`'d into.
