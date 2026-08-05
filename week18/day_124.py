@@ -19,3 +19,5 @@ print()
 hard_work = df[df["hours"] > 2]
 print("--- sessions over 2 hours ---")
 print(hard_work)
+
+# hard day
