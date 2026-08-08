@@ -1,0 +1,15 @@
+## pausing to reconnect the dots (week 19)
+
+by day 126 (18 weeks in) the pieces started to feel scattered
+
+python basics, pandas, matplotlib, numpy
+
+each learned in its own week but not fully wired together in my head
+
+so instead of jumping to a new library, 
+week 19 is a deliberate pause: reimplementing pandas/numpy operations (filtering, groupby) using pure python
+
+loops, conditionals, dicts, functions — with no ai or autocomplete help.
+
+so my goal is to make sure the logic underneath the one line library calls is 
+actually mine, not just memorized syntax.
