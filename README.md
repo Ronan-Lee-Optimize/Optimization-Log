@@ -84,3 +84,23 @@ project folder before running the script.
 Also learned: VS Code's green ▶ Run button opens a fresh terminal each 
 time (always resets to root), while typing directly into an existing 
 terminal panel keeps whatever directory you `cd`'d into.
+
+---
+
+## Week 19 Plan: Pure Python Bridge Week (no new libraries)
+Taking a week off from new content to rebuild fluency in bare-metal 
+Python before continuing. No pandas/numpy/AI assistance — just for, 
+if, list, dict, def.
+
+Plan:
+- Reimplement pandas filtering (`df[df["hours"] > 2]`) using a plain 
+  list of dicts + for/if
+- Reimplement groupby (sum hours per subject) the same way, by hand
+- Mini project 1: id/score lookup tool (input → dict → search by id)
+- Mini project 2: word/letter frequency counter from a list of sentences
+- Mini project 3: simple grade manager — average scores, filter 
+  students above 80, built as functions
+
+Reasoning: library one-liners are fast, but I want to be sure I could 
+still solve the same problem with nothing but the fundamentals if I 
+had to (whiteboard-test scenario).
