@@ -87,6 +87,17 @@ terminal panel keeps whatever directory you `cd`'d into.
 
 ---
 
+## A Rough Night
+Had a really tough night with a lot going on — ended up physically 
+overwhelmed and blacked out for a few hours. By the time I came to, 
+it was already past midnight and the commit window was gone. Logged 
+it late instead of forcing a same-day entry.
+
+Lesson: some nights, the log has to wait. The streak matters, but 
+not more than actually being okay. Picked it back up the next day.
+
+---
+
 ## Week 19 Plan: Pure Python Bridge Week (no new libraries)
 Taking a week off from new content to rebuild fluency in bare-metal 
 Python before continuing. No pandas/numpy/AI assistance — just for, 
@@ -104,3 +115,6 @@ Plan:
 Reasoning: library one-liners are fast, but I want to be sure I could 
 still solve the same problem with nothing but the fundamentals if I 
 had to (whiteboard-test scenario).
+
+---
+
