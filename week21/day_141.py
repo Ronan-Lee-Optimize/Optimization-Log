@@ -1,5 +1,5 @@
 # day 141 - new project: EOQ core calculation logic
-# opt-log | Consistency over perfection.
+# opt-log | consistency over perfection.
 import math
 
 
