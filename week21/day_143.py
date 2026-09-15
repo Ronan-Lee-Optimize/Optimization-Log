@@ -32,7 +32,7 @@ print(f"minimum total cost: ${eoq_cost:.2f}")
 
 # build the curve around whatever the user entered
 max_range = int(eoq * 3)
-quantities = range(10, max_range, 5)
+range(10, max(max_range, 60), 5)
 costs = []
 
 for qty in quantities:
